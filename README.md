@@ -5,6 +5,10 @@
 - torchtext：0.2.3
 - python：3.6
 
+## 文件说明
+- Test-Dataset.ipynb Test-Dataset.py 使用torchtext进行文本预处理的notebook和py版。
+- Test-Dataset2.ipynb 使用Keras和PyTorch构建数据集进行文本预处理。
+
 ## 使用说明
 - 分别提供了notebook版和标准py文件版。
 - 从零开始逐步实现了torchtext文本预处理过程，包括截断补长，词表构建，使用预训练词向量，构建可用于pytorch的可迭代数据等。 
