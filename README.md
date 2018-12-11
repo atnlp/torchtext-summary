@@ -1,7 +1,7 @@
 # torchtext的使用总结，并结合Pytorch实现LSTM
 
 ## 版本说明
-- Pyorch版本：0.4.1
+- PyTorch版本：0.4.1
 - torchtext：0.2.3
 - python：3.6
 
