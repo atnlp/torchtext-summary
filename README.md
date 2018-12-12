@@ -8,6 +8,7 @@
 ## 文件说明
 - Test-Dataset.ipynb Test-Dataset.py 使用torchtext进行文本预处理的notebook和py版。
 - Test-Dataset2.ipynb 使用Keras和PyTorch构建数据集进行文本预处理。
+- Language-Model.ipynb 使用gensim加载预训练的词向量，并使用PyTorch实现语言模型。
 
 ## 使用说明
 - 分别提供了notebook版和标准py文件版。
