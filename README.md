@@ -14,7 +14,10 @@
 - 分别提供了notebook版和标准py文件版。
 - 从零开始逐步实现了torchtext文本预处理过程，包括截断补长，词表构建，使用预训练词向量，构建可用于pytorch的可迭代数据等。 
 
-&nbsp;&nbsp;&nbsp;&nbsp;使用教程参考我的个人博客：http://www.nlpuser.com/pytorch/2018/10/30/useTorchText/
+&nbsp;&nbsp;&nbsp;&nbsp;使用教程参考我的个人博客（第一个为github博客，图片显示有问题，以第二个为准）：
+
+- http://www.nlpuser.com/pytorch/2018/10/30/useTorchText/
+- https://blog.csdn.net/nlpuser/article/details/88067167
 
 &nbsp;&nbsp;&nbsp;&nbsp;代码中在数据集中使用预训练词向量部分已注释为markdown格式，如下所示，若要使用预训练的词向量，例如glove开源的预训练词向量，需要在当前目录下创建mycache文件夹作为cache目录，并指定预训练词向量文件所在位置。glove词向量下载可参考此链接：https://pan.baidu.com/s/1i5XmTA9
 
